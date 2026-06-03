@@ -50,15 +50,6 @@ npm install
 
 Crear un archivo `.env` tomando como referencia el archivo `.env.example`.
 
-Ejemplo:
-
-```env
-PORT=4000
-
-MONGO_URI=mongodb+srv://usuario:password@cluster.mongodb.net/database
-
-JWT_SECRET=mi_clave_secreta
-```
 
 5. Ejecutar el servidor en modo desarrollo
 
