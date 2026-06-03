@@ -97,6 +97,3 @@ Funcionalidades
 * Conexión con MongoDB.
 * Manejo de archivos adjuntos.
 
-Autor
-
-Proyecto desarrollado como parte de la implementación del Sistema de Gestión de Tickets para la asignatura de Desarrollo de Aplicaciones Web.
